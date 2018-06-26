@@ -1,0 +1,6 @@
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\bin\Debug\MochilaConsola.exe.config
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\bin\Debug\MochilaConsola.exe
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\bin\Debug\MochilaConsola.pdb
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\obj\Debug\MochilaConsola.csprojResolveAssemblyReference.cache
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\obj\Debug\MochilaConsola.exe
+c:\users\marcos pedraza\documents\visual studio 2015\Projects\MochilaConsola\MochilaConsola\obj\Debug\MochilaConsola.pdb
